@@ -1,0 +1,12 @@
+---
+title: "Assimilation of Fire Perimeters and Satellite Observations into a Coupled Fire-Atmosphere Model"
+date: 2018-05-17
+publishDate: 2019-11-15T03:35:00.827418Z
+authors: ["Angel Farguell", "James Haley", "Jan Mandel", "Adam Kochanski", "Sher Schranz"]
+publication_types: ["10"]
+abstract: "Assimilation of data into a fire-spread model is formulated as an optimization problem. The level set equation, which relates the fire arrival time and the rate of spread, is allowed to be satisfied only approximately, and we minimize a norm of the residual. Previous methods based on modification of the fire arrival time either used an additive correction to the fire arrival time, or made a position correction. Unlike additive fire arrival time corrections, the new method respects the dependence of the fire rate of spread on diurnal changes of fuel moisture and on weather changes, and, unlike position corrections, it respects the dependence of the fire spread on fuels and terrain as well. The method can be used to interpolate the fire arrival time between two perimeters by imposing the fire arrival time at the perimeters as constraints. Another application is to incorporate fire detection by including the data likelihood of the observations into the objective function. Also,the ignition point can be estimated by including the location and time of ignition with the unknowns in the optimization process. In a coupled atmosphere model, the fire arrival time found by the optimization is used to generate the fire forcing for the atmospheric model to assure the consistency of the states of the fire and the atmosphere. The method is demonstrated on real fires and helicopter-observed fire perimeters, and on Active Fires detections from the MODIS and VIIRS instruments on satellites."
+featured: false
+publication: "*American Meteorological Society's 12th Fire and Forest Meteorology Symposium, 13-17 May 2018 in Boise, Idaho*"
+url_source: "https://ams.confex.com/ams/33AF12F4BG/meetingapp.cgi/Paper/344532"
+---
+
