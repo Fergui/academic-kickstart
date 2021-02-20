@@ -141,7 +141,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Mathematical and Statistical Sciences, University of Colorado Denver"
   organization_url = "https://clas.ucdenver.edu/mathematical-and-statistical-sciences/"
-  title = "Statistical \& Machine Learning"
+  title = "Statistical & Machine Learning"
   url = "http://catalog.ucdenver.edu/content.php?filter%5B27%5D=MATH&filter%5B29%5D=6388&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=28&expand=&navoid=8182&search_database=Filter#acalog_template_course_filter"
   certificate_url = ""
   date_start = "2020-01-21"
